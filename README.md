@@ -1,4 +1,4 @@
-# MHKirkeby.github.io
+# Maja Hanne Kirkeby
 
 this is a test:
   - with a list item
