@@ -33,6 +33,7 @@ plugins             : []
 
 # Conversion
 markdown            : kramdown
+theme               : Minima
 highlighter         : rouge
 lsi                 : false
 excerpt_separator   : "\n\n"
